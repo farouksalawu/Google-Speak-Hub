@@ -38,7 +38,3 @@ Google Speak Hub is a cross-platform control surface that orchestrates existing 
 
 ## Summary  
 Google Speak Hub provides a single, unified interface for managing and personalizing voice interactions. By leveraging existing voice services, aggregating metadata, and enforcing privacy-first defaults, the Hub improves accessibility, predictability, and trust while giving users tangible control over an otherwise invisible system.
-
-
-## Mockup and Sketch
-https://drive.google.com/drive/folders/1Am_-qqekQJM_laU77p9dm4V3uMslaqpu

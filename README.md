@@ -28,3 +28,7 @@ Voice features are powerful but scattered across different apps. Users can speak
 - Backend: Aggregates voice metadata, handles profiles, privacy, and API calls  
 - APIs: Google Assistant, Speech-to-Text, Text-to-Speech, App intent routing  
 - Data: Privacy-first metadata storage, anonymized history
+
+
+## Mockup and Sketches
+https://drive.google.com/drive/folders/1Am_-qqekQJM_laU77p9dm4V3uMslaqpu
